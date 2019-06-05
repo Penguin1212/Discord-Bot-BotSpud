@@ -39,7 +39,7 @@ When these are all installed you can then download the ZIP from here and unpack 
 
 Then once that is complete you can use the 'start.bat' to run the bot this will use pip to install all the projects needed and then run the bot.
 
-If everything above is done correctly it should run and ask for a few inputs for setup
+If everything above is done correctly it should run and ask for a few inputs for setup (Make sure to read the instructions.txt file if needed)
 
 ===========================================================================
 
