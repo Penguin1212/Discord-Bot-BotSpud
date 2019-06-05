@@ -1,6 +1,7 @@
 # Discord-Bot-BotSpud
 
 ___WELCOME___
+
 BotSpud is a bot I have been working on for a little more than 2 months
 
 It was just a porject while I learn to code in Python, but after changing the dsicord.py to the re-write version I found that a lot of the code I had been using (for voice commands) did not work with the re-write of discord.py. Most of the command like: 
@@ -26,12 +27,15 @@ This can also be used as a base to a bot and people could add cogs for new comma
 
 Could be used as a very customizable discord bot more so than a regular discord bot.
 
-USE:
-place 
+Use:
+
 
 
 ___IMPORTS___
+
 This bot was made using the latest version of python (V: 3.7) along with the latest version of all imported Python projects.
+
+------------------------------------------------------------------------
 
 from discord.ext import commands
 
@@ -70,6 +74,8 @@ import datetime
 import sys
 
 import shutil
+
+------------------------------------------------------------------------
 
 Some of these will need to be installed using pip
 
