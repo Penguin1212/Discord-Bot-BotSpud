@@ -96,8 +96,17 @@ discord.py is the voice version.
 If everything is done correctly you will not have to worry about the imports this should be done for you (ONLY IF PIP AND PYTHON HAVE BEEN INSTALLED ON YOUR COMPUTER)
 
 
+===========================================================================
 
+___UPDATES___
 
+I will be working on this bot changing things, adding things, and fixing bugs as I come across them.
+
+When I do make changes I will update the files on here, so check back once in a while to get the lates version of the bot.
+
+I will be listing the versions and the date they were put out here:
+
+V:4.1 (6/5/19 6:43EST)[LATEST]
 
 
 
