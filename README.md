@@ -30,6 +30,8 @@ Could be used as a very customizable discord bot more so than a regular discord 
 Use:
 
 
+========================================================================
+
 ___IMPORTS___
 
 This bot was made using the latest version of python (V: 3.7) along with the latest version of all imported Python projects.
