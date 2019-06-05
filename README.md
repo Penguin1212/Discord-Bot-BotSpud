@@ -27,6 +27,19 @@ Could be used as a very customizable discord bot more so than a regular discord 
 
 Use:
 
+To use the code you must have a few things installed on you computer 
+
+1. Python (latest version)
+
+2. pip so projects needed for the bot to run correctly can be downloaded
+
+3. FFmpeg (https://ffmpeg.org/)
+
+When these are all installed you can then download the ZIP from here and unpack it on your computer making sure all the files are inside the same folder. 
+
+Then once that is complete you can use the 'start.bat' to run the bot this will use pip to install all the projects needed and then run the bot.
+
+If everything above is done correctly it should run and ask for a few inputs for setup
 
 ===========================================================================
 
