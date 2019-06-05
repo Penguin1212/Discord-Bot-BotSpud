@@ -93,6 +93,7 @@ Some of these will need to be installed using pip
 
 discord.py is the voice version.
 
+If everything is done correctly you will not have to worry about the imports this should be done for you (ONLY IF PIP AND PYTHON HAVE BEEN INSTALLED ON YOUR COMPUTER)
 
 
 
