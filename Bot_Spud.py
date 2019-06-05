@@ -1297,41 +1297,12 @@ def main():
         embed = discord.Embed(
             colour=discord.Colour.orange()
         )
-        embed.set_author(name="Change Log 4.1 (Next Command, New Cog, Updated Help, Updated Queue Command, Bug Fixes)")
-        embed.add_field(name='Summary', value="Large Update: with the addition of the queue command I have now added a "
-                                              "next command | Updated the queue command and the next command gets "
-                                              "these features as well (Basic features off all voice commands) | Added "
-                                              "new cog along with update help command | Bug fixes"
+        embed.set_author(name="Change Log 4.1 (Changed Reddit command)")
+        embed.add_field(name='Summary', value="Changed Reddit command to have information entered later"
                         , inline=False)
-        embed.add_field(name='Change1', value="A next command has been added: It stops the song playing deletes it "
-                                              "moves the next song in queue and plays it"
-                        , inline=False)
-        embed.add_field(name='Change2', value="Added basic components that all voice commands have to the queue "
-                                              "command along with the next command. These basic features were not "
-                                              "added in the first update because it was in testing and did not need "
-                                              "them to work on a basic level. These include enable/disabling - "
-                                              "restricting to one text channel or not - Turning off bot response - "
-                                              "console print-outs to help the bot owner fix problems and "
-                                              "tell what's happening"
-                        , inline=False)
-        embed.add_field(name='Change3', value="New cog added 'voice_help' this is the command vhelp for info on voice "
-                                              "command this seperates it from all the other command to keep it "
-                                              "organized"
-                        , inline=False)
-        embed.add_field(name='Change4', value="Help commands were updated to show new commands along "
-                                              "with changes in commands"
-                        , inline=False)
-        embed.add_field(name='BugFixed1', value="Where searching Queue for new song would just end without output "
-                                                "to user if no other queued songs"
-                        , inline=False)
-        embed.add_field(name='BugFixed2', value="Fixed using the play command before using the stop command would "
-                                                "still clear the number tracking of the song audio files causing them"
-                                                " to become out of order in the Queue folder"
-                        , inline=False)
-        embed.add_field(name='BugFixed3', value="Fixed where the next command would run twice when the command "
-                                                "was used once"
-                        , inline=False)
-        embed.add_field(name='Total lines', value="was: 1701 | is: 1974 ", inline=False)
+        embed.add_field(name='Change', value="Reddit information is now entered later instead of using my reddit account.", inline=False)
+     
+        embed.add_field(name='Total lines', value="was: 1974 | is: 2075 ", inline=False)
 
         print("Send changes")
 
