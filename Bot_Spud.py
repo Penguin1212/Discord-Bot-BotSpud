@@ -51,7 +51,8 @@ def main():
     print("give me a second while I get everything ready...\n")
 
     reddit_infile = os.path.isfile("./Other/reddit_info.ini")
-    if reddit_infile is False:
+    config_infile = os.path.isfile("./Other/config.ini")
+    if reddit_infile is False and config_infile is True:
         cprint("WARNING: THE COMMAND FOR REDDIT WILL NOT WORK BECAUSE NO INFO WAS PROVIDED. HELP CAN BE FOUND IN "
                "INSTRUCTIONS.TXT\n", 'green')
         config.read('Other/config.ini')
