@@ -108,7 +108,9 @@ I will be listing the versions and the date they were put out here:
 
 V:4.1 (6/5/19 6:43EST)
 
-V:4.2 (6/23/19 3:45EST)[LATEST]
+V:4.2 (6/23/19 3:45EST)
+
+V:4.5 (7/13/19 10:31EST)[LATEST]
 
 
 
